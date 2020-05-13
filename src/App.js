@@ -17,10 +17,22 @@ export default App;
 
 const Header = styled.div`
   color: ${props => props.theme.main};
-  text-shadow: 6px 6px ${props => props.theme.shadow};
+  text-shadow: ${props => textShadow(0.25, 8, props.theme.shadow)};
 `;
 
 const theme = {
   main: "#5362F6",
   shadow: "#E485F8"
 };
+
+function textShadow(precision, size, color) {
+  const length = size * (1 / precision);
+
+  let shadows = [];
+  for (let i = 1; i <= length; i++) {
+    const offset = precision * i;
+    shadows.push(`${offset}px ${offset}px ${color}`);
+  }
+
+  return shadows.join();
+}

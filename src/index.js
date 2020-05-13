@@ -1,9 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 import { createGlobalStyle } from "styled-components";
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import "./index.css";
+import App from "./App";
+import * as serviceWorker from "./serviceWorker";
 
 const GlobalStyles = createGlobalStyle`
 * {
@@ -21,7 +21,7 @@ body {
   padding: 2rem;
   max-width: 1280px;
   margin: auto;
-  font-size: 4rem;
+  font-size: 10rem;
   font-weight: 900;
 }
 @media (max-width: 768px) {
@@ -36,7 +36,7 @@ ReactDOM.render(
     <GlobalStyles />
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
 
 // If you want your app to work offline and load faster, you can change
