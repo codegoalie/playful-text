@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.8cd16e32.chunk.js",
-    "main.js.map": "/static/js/main.8cd16e32.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4a460a0e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4a460a0e.js.map",
-    "static/js/2.3e6f9411.chunk.js": "/static/js/2.3e6f9411.chunk.js",
-    "static/js/2.3e6f9411.chunk.js.map": "/static/js/2.3e6f9411.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b0c299e29d1c91582a575e80d646c38d.js": "/precache-manifest.b0c299e29d1c91582a575e80d646c38d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.3e6f9411.chunk.js.LICENSE.txt": "/static/js/2.3e6f9411.chunk.js.LICENSE.txt"
+    "main.css": "https://codegoalie.github.io/playful-text/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "https://codegoalie.github.io/playful-text/static/js/main.7881d84b.chunk.js",
+    "main.js.map": "https://codegoalie.github.io/playful-text/static/js/main.7881d84b.chunk.js.map",
+    "runtime-main.js": "https://codegoalie.github.io/playful-text/static/js/runtime-main.9fc9a628.js",
+    "runtime-main.js.map": "https://codegoalie.github.io/playful-text/static/js/runtime-main.9fc9a628.js.map",
+    "static/js/2.1fa1f919.chunk.js": "https://codegoalie.github.io/playful-text/static/js/2.1fa1f919.chunk.js",
+    "static/js/2.1fa1f919.chunk.js.map": "https://codegoalie.github.io/playful-text/static/js/2.1fa1f919.chunk.js.map",
+    "index.html": "https://codegoalie.github.io/playful-text/index.html",
+    "precache-manifest.aa65b3d49c6bc11c20012689a9c99350.js": "https://codegoalie.github.io/playful-text/precache-manifest.aa65b3d49c6bc11c20012689a9c99350.js",
+    "service-worker.js": "https://codegoalie.github.io/playful-text/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "https://codegoalie.github.io/playful-text/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1fa1f919.chunk.js.LICENSE.txt": "https://codegoalie.github.io/playful-text/static/js/2.1fa1f919.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a460a0e.js",
-    "static/js/2.3e6f9411.chunk.js",
+    "static/js/runtime-main.9fc9a628.js",
+    "static/js/2.1fa1f919.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8cd16e32.chunk.js"
+    "static/js/main.7881d84b.chunk.js"
   ]
 }
