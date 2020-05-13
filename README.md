@@ -1,9 +1,9 @@
 # Playful text demo
 
-This is the code, in [React](1) and [`styled-components`](2), for this
-[CSS Tricks demo](3).
+This is the code, in [React][1] and [`styled-components`][2], for this
+[CSS Tricks demo][3].
 
-### [Demo here!](4)
+### [Demo here!][4]
 
 ![multi-colored text image][final-result]
 
